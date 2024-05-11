@@ -1,0 +1,206 @@
+body {
+    background-image: url(https://wallpapercave.com/wp/wp4669048.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+  text-overflow: clip;
+   text-align:center;
+    object-position: 700cm;
+    position: 1000;
+    color: rgb(244, 240, 240);
+    font-size: 4cap;
+    font-variant: normal;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: oblique;
+}
+
+h2 {
+  text-overflow: clip;
+    text-align: center;
+    object-position:700cm;
+    position: relative;
+    color: rgb(174, 229, 233);
+    font-size: 3cap;
+    font-variant: small-caps;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: oblique;
+}
+
+.aimg{ 
+
+    float:right;
+    padding: 15%;
+    padding-right: 0ch;
+    border: 700px;
+    border-radius: 200px;
+    border: 151px #030404;
+    border-color: #080c0c;
+
+}
+.button{
+  float: right;
+  margin-bottom: 100px;
+  margin-top: 50px;
+  margin-left: 100px;
+  border: 5px solid black;
+  border-radius: 150px ;
+  background-color: rgb(140, 241, 207);
+  color: black;
+  padding: 7px 7px;
+  font-size: 16px;
+  text-decoration: solid;
+  
+  cursor: pointer;
+}
+.button:hover{
+  background-color: rgb(110, 180, 243);
+  color: #030404;
+}
+.btn {
+    margin-bottom: 500px;
+    margin-top: 500px;
+    margin-left: 200px;
+    border: 5px solid black;
+    border-radius: 150px ;
+    background-color: rgb(140, 241, 207);
+    color: black;
+    padding: 14px 28px;
+    font-size: 16px;
+    text-decoration: solid;
+    
+    cursor: pointer;
+  }
+  
+ 
+  .a {
+   
+    border-color: #030404;
+    color: rgb(8, 6, 7);
+  }
+  
+  .a:hover {
+    background-color: #e9dd85;
+    color: rgb(4, 7, 7);
+  }
+  .b{
+   
+
+    border-color:#030404 ;
+    color: rgb(8, 6, 7);
+  }
+
+  .b:hover{
+    background-color: #e9dd85;
+    color: rgb(4, 7, 7);
+  }
+  
+  .c{
+  
+    border-color:#030404 ;
+    color: rgb(8, 6, 7);
+  }
+  .c:hover{
+    background-color: #e9dd85;
+    color: rgb(4, 7, 7);
+  }
+  
+  .d{   
+    
+    border-color:#030404 ;
+    color: rgb(8, 6, 7);
+  }
+  .d:hover{
+    background-color: #e9dd85;
+    color: rgb(4, 7, 7);
+  }
+  
+  .e{   
+  
+    border-color:#030404 ;
+    color: rgb(8, 6, 7);
+  }
+  .e:hover{
+    background-color: #e9dd85;
+    color: rgb(4, 7, 7);
+  }
+  
+  .f{    
+   
+    border-color:#030404 ;
+    color: rgb(8, 6, 7);
+  }
+  .f:hover{
+    background-color: #e9dd85;
+    color: rgb(4, 7, 7);
+  }
+  
+  
+.aboutme{
+  text-align: left;
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 400;
+  font-feature-settings: "abvf";
+ color: azure;
+
+}
+.contact{
+  text-align: left;
+  font-size: larger;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 400;
+  font-feature-settings: "aalt";
+  color: aliceblue;
+}
+.education{
+
+  text-align: left;
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 400;
+  font-feature-settings: "abvf";
+ color: azure;
+}
+.Experience{
+  text-align: left;
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 400;
+  font-feature-settings: "abvf";
+ color: azure;
+}
+.project{
+  text-align: left;
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 400;
+  font-feature-settings: "abvf";
+ color: azure;
+}
+.skills{
+  text-align: left;
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 400;
+  font-feature-settings: "abvf";
+ color: azure;
+}
+.family{
+  text-align: left;
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 400;
+  font-feature-settings: "abvf";
+ color: azure;
+
+}
+
+
+
+
